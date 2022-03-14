@@ -1,1 +1,1 @@
-# [python程序第一弹](https://www.bilibili.com/video/BV1t3411W75w?spm_id_from=333.999.0.0)
++python程序第一弹 [代码]（https://github.com/ng-fukgin/python_funny/blob/main/python%E6%9C%89%E8%B6%A3%E7%9A%84%E7%A8%8B%E5%BA%8F%E7%AC%AC%E4%B8%80%E5%BC%B9.ipynb） [视频](https://www.bilibili.com/video/BV1t3411W75w?spm_id_from=333.999.0.0)
